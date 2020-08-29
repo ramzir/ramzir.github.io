@@ -336,6 +336,12 @@ body {
   margin-top: 8%;
   font-size: 1.3rem;
   background: white;
+  transition-duration: 0.5s;
+}
+
+.contactbuttons:hover {
+  background-color: rgba(33,46,78,1);
+  color: white;
 }
 
 .centered {

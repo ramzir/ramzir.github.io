@@ -9,14 +9,18 @@ export default () => (
         </h2>
         <div class="row centered">
             <div class="col">
-                <button class="contactbuttons">
-                    Send Me An Email
-                </button>
+                <a href="mailto:rrimaw2@uic.com" target="_blank">
+                    <button class="contactbuttons">
+                        Send Me An Email
+                    </button>
+                </a>
             </div>
             <div class="col">
-                <button class="contactbuttons">
-                    View My Resume
-                </button>
+                <a href="ramziresume.pdf" target="_blank">
+                    <button class="contactbuttons">
+                        View My Resume
+                    </button>
+                </a>
             </div>
         </div>
         <div class="row contacticons">
