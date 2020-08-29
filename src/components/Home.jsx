@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import {Parallax, ParallaxLayer} from 'react-spring/renderprops-addons'
+// import {Parallax, ParallaxLayer} from 'react-spring/renderprops-addons'
 import crawfish from '../assets/images/crawfish.jpg'
 import NavBar from './Navbar'
 import Section from './Section'
