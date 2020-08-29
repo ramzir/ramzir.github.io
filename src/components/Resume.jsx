@@ -31,7 +31,7 @@ export default () => (
                 <h2>
                     Upkey
                 </h2>
-                <h5 class="role">Business and Technology Development Internship</h5>
+                <h5 class="role">Internship</h5>
                 <p class="date">Summer 2020</p>
                 <p class="description">
                 - Designed a registration flow prototype for the LRNG website while learning about UX <br></br>
@@ -53,9 +53,9 @@ export default () => (
                     <h5 class="role">Internship</h5>
                     <p class="date">Summer 2018</p>
                     <p class="description">
-                    -Engaged in building a distillation system for distilling crude oil to export overseas <br></br>
-                    -Shadowed the CEO of the company <br></br>
-                    -Gained experience working in a small business environment
+                    - Engaged in building a distillation system for distilling crude oil to export overseas <br></br>
+                    - Shadowed the CEO of the company <br></br>
+                    - Gained experience working in a small business environment
                     </p>
             </div>
         </div>
