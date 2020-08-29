@@ -46,23 +46,41 @@ export default () => (
             </h3>
             <div class="row progress-row">
                 <div class="col skillcol">
-                <p>Java</p>
-                <p>Python</p>
-                <p>C++</p>
-                <p>Web Development</p>
                 </div>
                 <div class="col-8">
-                    <div class="progress">
-                        <div class="progress-bar bg-info java" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+                    <div class="row">
+                        <p>Java</p>
+                        <div class="progress">
+                            <div class="progress-bar bg-info java" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+                        </div>
                     </div>
-                    <div class="progress">
-                        <div class="progress-bar bg-info python" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+    
+                    <div class="row">
+                        <p>Python</p>
+                        <div class="progress">
+                            <div class="progress-bar bg-info python" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                        </div>
                     </div>
-                    <div class="progress">
-                        <div class="progress-bar bg-info c" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+
+                    <div class="row">
+                        <p>C++</p>
+                        <div class="progress">
+                            <div class="progress-bar bg-info c" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+                        </div>
                     </div>
-                    <div class="progress">
-                        <div class="progress-bar bg-info web" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+
+                    <div class="row">
+                        <p>Data Structures</p>
+                        <div class="progress">
+                            <div class="progress-bar bg-info ds" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <p>Web Development</p>
+                        <div class="progress">
+                            <div class="progress-bar bg-info web" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+                        </div>
                     </div>
                 </div>
             </div>

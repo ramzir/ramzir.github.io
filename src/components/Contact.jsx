@@ -20,9 +20,12 @@ export default () => (
             </div>
         </div>
         <div class="row contacticons">
-            <img src={linkedin}></img>
-
-            <img src={github}></img>
+            <a href="https://www.linkedin.com/in/ramzirimawi/" target="_blank">
+                <img src={linkedin}></img>
+            </a>
+            <a href="https://github.com/ramzir" target="_blank">
+                <img src={github}></img>
+            </a>
         </div>
         <p class="copyright">
             @ Copyright Ramzi Rimawi
