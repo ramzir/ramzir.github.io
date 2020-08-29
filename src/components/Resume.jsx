@@ -21,7 +21,7 @@ export default () => (
                 </p>
             </div>
         </div>
-        <div class="row rowline">
+        <div class="row topmargin">
             <div class="col">
                 <h3>
                     Work
@@ -34,10 +34,29 @@ export default () => (
                 <h5 class="role">Business and Technology Development Internship</h5>
                 <p class="date">Summer 2020</p>
                 <p class="description">
-                    Completed courses: Introduction to Java, Program Design I, Program Design II, Mathematical Foundations of Computing
-                    Fall 2019: Programming Practicum, Data Structures
-                    Spring 2020: Machine Organization, Software Design
+                - Designed a registration flow prototype for the LRNG website while learning about UX <br></br>
+                - Created new methods of on-boarding to optimize new users' experience on the website <br></br>
+                - Gained entrepreneurial skills with a startup pitch competition while collaborating with a team <br></br>
+                - Developed and presented weekly projects that implemented trainings taught by professionals working 
+                    within finance, technology, marketing, and entrepreneurship leading to an extensive understanding of business practices
                 </p>
+            </div>
+        </div>
+        <div class="row rowline">
+            <div class="col">
+
+            </div>
+            <div class="col-8">
+                    <h2>
+                        Narchem Corporation
+                    </h2>
+                    <h5 class="role">Internship</h5>
+                    <p class="date">Summer 2018</p>
+                    <p class="description">
+                    -Engaged in building a distillation system for distilling crude oil to export overseas <br></br>
+                    -Shadowed the CEO of the company <br></br>
+                    -Gained experience working in a small business environment
+                    </p>
             </div>
         </div>
         <div class="row rowline">
