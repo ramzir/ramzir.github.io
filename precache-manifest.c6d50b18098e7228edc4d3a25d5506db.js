@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f9d7904e327eecee1e3286dd6dd154e4",
+    "revision": "d33188eae73512fa3eb65ee192ca568e",
     "url": "/index.html"
   },
   {
-    "revision": "dc8ecb61f8bc100f61b5",
-    "url": "/static/css/2.11829350.chunk.css"
+    "revision": "49d14bb2dfc944488fe4",
+    "url": "/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "87e3f7ffba2456c378d8",
+    "revision": "fcb8eca8c5367ca02114",
     "url": "/static/css/main.779a7c47.chunk.css"
   },
   {
-    "revision": "dc8ecb61f8bc100f61b5",
-    "url": "/static/js/2.00319405.chunk.js"
+    "revision": "49d14bb2dfc944488fe4",
+    "url": "/static/js/2.2c8a73f1.chunk.js"
   },
   {
     "revision": "b6840d1fa4cd3c3e88b7c215b28b2e9e",
-    "url": "/static/js/2.00319405.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.2c8a73f1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "87e3f7ffba2456c378d8",
-    "url": "/static/js/main.8d507193.chunk.js"
+    "revision": "fcb8eca8c5367ca02114",
+    "url": "/static/js/main.2244bd7f.chunk.js"
   },
   {
     "revision": "f139b624154a37532bb8",
     "url": "/static/js/runtime-main.ce89729d.js"
+  },
+  {
+    "revision": "bb61d643b9bcbf8c9582435d0c7875ca",
+    "url": "/static/media/RamziRimawiResumeFall2020.bb61d643.pdf"
   },
   {
     "revision": "256dc7ba044028f7688e5526f1fbb876",
