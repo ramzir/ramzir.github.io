@@ -13,10 +13,11 @@ export default () => (
                     University of Illinois at Chicago
                 </h2>
                 <h5 class="role">Computer Science</h5>
-                <p class="date">Expected Graduation Spring 2022</p>
+                <p class="date">Expected Graduation: Spring 2022</p>
                 <p class="description">
                     Completed courses: Program Design I, Program Design II, Mathematical Foundations of Computing, Programming Practicum, 
-                    Data Structures, Machine Organization, Languages and Automata 
+                    Data Structures, Machine Organization, Languages and Automata
+                    <br></br>
                     Fall 2020: Software Design, Systems Programming, Computer Design
                 </p>
             </div>
