@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm run install`
+
+delete package-lock.json if you have problems
+
 ### `npm run start`
 
 Runs the app in the development mode.<br />
