@@ -1,6 +1,7 @@
 import React from "react"
 import github from "../assets/icons/github.png"
 import linkedin from "../assets/icons/linkedin100.png"
+import resume from '../assets/RamziRimawiResumeFall2020.pdf';
 
 export default () => (
     <div id="contact" class="contact container">
@@ -16,7 +17,7 @@ export default () => (
                 </a>
             </div>
             <div class="col">
-                <a href="ramziresume.pdf" target="_blank">
+                <a href={resume} target="_blank">
                     <button class="contactbuttons">
                         View My Resume
                     </button>
